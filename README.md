@@ -1,8 +1,8 @@
 # Projet Puissance 4 Multijoueur en GO
 
 <div style="display: flex; align-items: center;">
-    <img src="image/go.png" alt="GO logo" style="width: 200px;">
-    <img src="image/ebitengine.png" alt="Ebitengine logo" style="width: 200px;">
+    <img src="readmefile/go.png" alt="GO logo" style="width: 200px;">
+    <img src="readmefile/ebitengine.png" alt="Ebitengine logo" style="width: 200px;">
 </div>
 
 [![Vidéo de démonstration du jeu](readmefile/Puissance4-go.png)](lien_vers_votre_vidéo_sur_youtube)
