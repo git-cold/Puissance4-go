@@ -5,7 +5,7 @@
     <img src="readmefile/ebitengine.png" alt="Ebitengine logo" style="width: 200px;">
 </div>
 
-[![Vidéo de démonstration du jeu](readmefile/Puissance4-go.png)](lien_vers_votre_vidéo_sur_youtube)
+[![Vidéo de démonstration du jeu](readmefile/Puissance4-go.png)](readmefile/Puissance4.mp4)
 
 ## Lancement du Projet
 
