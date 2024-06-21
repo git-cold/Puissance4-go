@@ -19,7 +19,7 @@ go run server.go
 
 ### Client
 
-Dans le dossier `/client`, exécutez la commande suivante, pour obtenir un exécutable permettant de lancer l'application (assurer vous d'avoir la version 1.21.3 sinon changer la version dans le fichier `/client/go.mod` :
+Dans le dossier `/client`, exécutez la commande suivante, pour obtenir un exécutable permettant de lancer l'application (assurer vous d'avoir la version 1.21.3 sinon changer la version dans le fichier `/client/go.mod`) :
 
 ```sh
 go build
