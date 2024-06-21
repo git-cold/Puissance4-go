@@ -1,9 +1,5 @@
 # Projet Puissance 4 Multijoueur en GO
 
-![Schéma du fonctionnement d'ebitengine](readmefile/go.png)
-
-![Schéma du fonctionnement d'ebitengine](readmefile/ebitengine.png)
-
 ## Lancement du Projet
 
 Pour démarrer le projet, lancez le serveur et les deux clients.
