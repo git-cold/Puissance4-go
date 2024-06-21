@@ -5,6 +5,8 @@
     <img src="image/ebitengine.png" alt="Ebitengine logo" style="width: 200px;">
 </div>
 
+[![Vidéo de démonstration du jeu](readmefile/Puissance4-go.png)](lien_vers_votre_vidéo_sur_youtube)
+
 ## Lancement du Projet
 
 Pour démarrer le projet, lancez le serveur et les deux clients.
@@ -19,13 +21,7 @@ go run server.go
 
 ### Client
 
-Dans le dossier `/client`, exécutez la commande :
-
-```sh
-go run main.go
-```
-
-ou, pour obtenir un exécutable :
+Dans le dossier `/client`, exécutez la commande suivante, pour obtenir un exécutable permettant de lancer l'application (assurer vous d'avoir la version 1.21.3 sinon changer la version dans le fichier `/client/go.mod`) :
 
 ```sh
 go build
@@ -33,8 +29,8 @@ go build
 
 ## Fonctionnement d'Ebitengine
 
-![Schéma du fonctionnement d'ebitengine](image/schema1.png)
+![Schéma du fonctionnement d'ebitengine](readmefile/schema1.png)
 
 ## Fonctionnement du Client-Serveur
 
-![Schéma fonctionnement du Client-Serveur](image/schema2.png)
+![Schéma fonctionnement du Client-Serveur](readmefile/schema2.png)
